@@ -13,7 +13,7 @@ The template can be downloaded directly in archive file format, or directly thro
 
 ## Preview
 
-<template_preview_image>
+<img width="400" alt="preview" src="https://user-images.githubusercontent.com/15690380/188167767-fb6aa495-050e-4bc8-a046-c0d8eb6ab53a.png">
 
 ## Dependencies
 
