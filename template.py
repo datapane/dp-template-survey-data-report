@@ -264,8 +264,8 @@ segments = {
 
 
 questions = {
-    "What IDEs are used?": data.filter(like="Q10_Part"),
-    "What hosted IDEs are used?": data.filter(like="Q9_Part"),
+    "What IDEs are used?": data.filter(like="Q9_Part"),
+    "What hosted IDEs are used?": data.filter(like="10_Part"),
     "What BI tools are used?": data.filter(like="Q34_A_Part"),
     "What BI tools are interesting?": data.filter(like="Q34_B_Part"),
     "What visualization libraries are used?": data.filter(like="Q14_Part"),
@@ -291,7 +291,7 @@ stats_group = dp.Group(
 
 # ## Build report
 
-# In[16]:
+# In[ ]:
 
 
 segment_pages = {}
